@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoShare.Models", "PhotoShare.Models\PhotoShare.Models.csproj", "{B0F315B1-EF42-4E64-9CB4-D21930F8ADE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoShare.Data", "PhotoShare.Data\PhotoShare.Data.csproj", "{122B3402-98E0-4E12-948A-042652E65506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoShare.Core", "PhotoShare.Core\PhotoShare.Core.csproj", "{F045B0BA-A68C-4D0F-A3EC-E515834A58E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoShare.API", "PhotoShare.API\PhotoShare.API.csproj", "{1B554943-EAB9-42E7-B1B5-4DF481BB37C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoShare.Tests", "PhotoShare.Tests\PhotoShare.Tests.csproj", "{09572197-A912-4525-B614-51553631F739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F315B1-EF42-4E64-9CB4-D21930F8ADE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F315B1-EF42-4E64-9CB4-D21930F8ADE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F315B1-EF42-4E64-9CB4-D21930F8ADE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F315B1-EF42-4E64-9CB4-D21930F8ADE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122B3402-98E0-4E12-948A-042652E65506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122B3402-98E0-4E12-948A-042652E65506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122B3402-98E0-4E12-948A-042652E65506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122B3402-98E0-4E12-948A-042652E65506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F045B0BA-A68C-4D0F-A3EC-E515834A58E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F045B0BA-A68C-4D0F-A3EC-E515834A58E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F045B0BA-A68C-4D0F-A3EC-E515834A58E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F045B0BA-A68C-4D0F-A3EC-E515834A58E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B554943-EAB9-42E7-B1B5-4DF481BB37C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B554943-EAB9-42E7-B1B5-4DF481BB37C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B554943-EAB9-42E7-B1B5-4DF481BB37C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B554943-EAB9-42E7-B1B5-4DF481BB37C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09572197-A912-4525-B614-51553631F739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09572197-A912-4525-B614-51553631F739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09572197-A912-4525-B614-51553631F739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09572197-A912-4525-B614-51553631F739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "La7Ijyn7urYE/78wwnL1ZHx6OmvphbGglGdDuiCgZqg=",
+  "Source": "PhotoShare.API",
+  "BasePath": "_content/PhotoShare.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PhotoShare.API\\wwwroot",
+      "Source": "PhotoShare.API",
+      "ContentRoot": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\",
+      "BasePath": "_content/PhotoShare.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\index.html",
+      "SourceId": "PhotoShare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\",
+      "BasePath": "_content/PhotoShare.API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\uploads\\0fde911b-12fc-4140-a942-54a5a4d1c517.jpg",
+      "SourceId": "PhotoShare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\",
+      "BasePath": "_content/PhotoShare.API",
+      "RelativePath": "uploads/0fde911b-12fc-4140-a942-54a5a4d1c517.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0fde911b-12fc-4140-a942-54a5a4d1c517.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\uploads\\8fad3c6f-2711-45e9-9bd6-0c67d5b5a809.png",
+      "SourceId": "PhotoShare.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\",
+      "BasePath": "_content/PhotoShare.API",
+      "RelativePath": "uploads/8fad3c6f-2711-45e9-9bd6-0c67d5b5a809.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8fad3c6f-2711-45e9-9bd6-0c67d5b5a809.png"
+    }
+  ]
+}

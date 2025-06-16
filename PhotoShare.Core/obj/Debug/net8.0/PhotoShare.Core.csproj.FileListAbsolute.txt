@@ -1,0 +1,17 @@
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\bin\Debug\net8.0\PhotoShare.Core.deps.json
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\bin\Debug\net8.0\PhotoShare.Core.dll
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\bin\Debug\net8.0\PhotoShare.Core.pdb
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\bin\Debug\net8.0\PhotoShare.Data.dll
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\bin\Debug\net8.0\PhotoShare.Models.dll
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\bin\Debug\net8.0\PhotoShare.Models.pdb
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\bin\Debug\net8.0\PhotoShare.Data.pdb
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoShare.Core.csproj.AssemblyReference.cache
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoShare.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoShare.Core.AssemblyInfoInputs.cache
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoShare.Core.AssemblyInfo.cs
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoShare.Core.csproj.CoreCompileInputs.cache
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoSha.096FEA08.Up2Date
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoShare.Core.dll
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\refint\PhotoShare.Core.dll
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\PhotoShare.Core.pdb
+C:\Users\EMIRRR\Desktop\emirdatas\PhotoShare\PhotoShare.Core\obj\Debug\net8.0\ref\PhotoShare.Core.dll

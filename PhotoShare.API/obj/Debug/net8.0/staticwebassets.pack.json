@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\uploads\\0fde911b-12fc-4140-a942-54a5a4d1c517.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0fde911b-12fc-4140-a942-54a5a4d1c517.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMIRRR\\Desktop\\emirdatas\\PhotoShare\\PhotoShare.API\\wwwroot\\uploads\\8fad3c6f-2711-45e9-9bd6-0c67d5b5a809.png",
+      "PackagePath": "staticwebassets\\uploads\\8fad3c6f-2711-45e9-9bd6-0c67d5b5a809.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PhotoShare.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PhotoShare.API.props",
+      "PackagePath": "build\\PhotoShare.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PhotoShare.API.props",
+      "PackagePath": "buildMultiTargeting\\PhotoShare.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PhotoShare.API.props",
+      "PackagePath": "buildTransitive\\PhotoShare.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
