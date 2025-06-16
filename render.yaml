@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: photoshare
+    env: dotnet
+    buildCommand: dotnet publish PhotoShare.API -c Release -o out
+    startCommand: dotnet out/PhotoShare.API.dll
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ASPNETCORE_URLS
+        value: http://0.0.0.0:$PORT
